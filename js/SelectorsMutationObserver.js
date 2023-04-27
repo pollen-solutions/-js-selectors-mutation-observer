@@ -1,24 +1,3 @@
-/**
- * Selectors Mutation Observer
- *
- * @internal ES6 JS Library to observe DOM mutation and apply callback on observed HTMLElement in a Node context
- *
- * USAGE :
- * ---------------------------------------------------------------------------------------------------------------------
- import {SelectorsMutationObserver} from "./lib/selectorsMutationObserver"
-
- SelectorsMutationObserver('.element', function ($el, mutationObserverInstance) {
-  console.log('HTMLElement with class [.element] was added !!')
- }, document.querySelector('ancestor-of-elements'))
-
- // or observe entire body
-
- SelectorsMutationObserver('.element', function ($el, mutationObserverInstance) {
-  console.log('HTMLElement with class [.element] was added !!')
- }, document.querySelector('ancestor-of-elements'))
- * ---------------------------------------------------------------------------------------------------------------------
- */
-
  /**
  * @type Function
  *
