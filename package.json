@@ -1,6 +1,6 @@
 {
   "name": "@pollen-solutions/selectors-mutation-observer",
-  "version": "v0.0.0",
+  "version": "v0.0.1",
   "description": "Pollen Solutions - JS - Selectors Mutation Observer",
   "main": "index.js",
   "module": "index.esm.js",

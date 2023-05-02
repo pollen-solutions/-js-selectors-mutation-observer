@@ -1,6 +1,6 @@
 # Selectors Mutation Observer
 
-[![Latest Stable Version](https://img.shields.io/npm/v/@pollen-solutions/selectors-mutation-observer.svg?style=for-the-badge)](https://packagist.org/packages/pollen-solutions/js-selectors-mutation-observer)
+[![Latest Stable Version](https://img.shields.io/npm/v/@pollen-solutions/selectors-mutation-observer.svg?style=for-the-badge)](https://www.npmjs.com/package/@pollen-solutions/selectors-mutation-observer)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE.md)
 
 ## Installation
